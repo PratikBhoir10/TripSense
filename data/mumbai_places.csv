@@ -1,0 +1,223 @@
+place_id,name,description,category_tags,indoor_outdoor,budget_level,duration_hours,latitude,longitude,primary_category,area,popularity_score,review_count,rain_suitability,sunny_suitability
+1,Gateway of India,Iconic waterfront arch and major South Mumbai landmark with harbor views.,"heritage, monument, landmark, waterfront, architecture",Outdoor,Free,1.5,18.922,72.8347,Heritage,Colaba,5.0,0,2,5
+2,Marine Drive,"Seafront promenade known for coastal views, evening walks and sunsets.","scenic, sea, promenade, sunset, coastline",Outdoor,Free,1.5,18.943,72.8238,Scenic,Marine Drive,5.0,0,2,5
+3,Elephanta Caves,UNESCO World Heritage rock-cut cave complex on Elephanta Island.,"heritage, caves, history, temple, UNESCO, sculpture",Outdoor,Paid,4.0,18.9633,72.9315,Heritage,Elephanta Island,5.0,0,2,5
+4,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,"Major museum of art, history and archaeology near Kala Ghoda.","museum, heritage, art, history, indoor, culture",Indoor,Paid,2.5,18.9269,72.8312,Museum,Mumbai,5.0,0,5,4
+5,Siddhivinayak Temple,Historic Ganesha temple and important religious destination in Prabhadevi.,"religious, temple, hindu, worship, prayer",Indoor,Free,1.5,19.0178,72.8302,Religious,Mumbai,5.0,0,5,4
+6,Haji Ali Dargah,Famous mosque and dargah located on an islet off Worli.,"religious, dargah, mosque, islamic, worship",Outdoor,Free,1.5,18.9827,72.809,Religious,Worli,5.0,0,2,5
+7,Juhu Beach,Popular Mumbai beach with sunset views and local snacks.,"beach, sea, sunset, coastline, street food",Outdoor,Free,2.0,19.0988,72.8267,Beach,Juhu,5.0,0,1,5
+8,Colaba Causeway,"Busy commercial street known for street shopping, souvenirs and cafes.","shopping, market, street shopping, souvenirs, food",Outdoor,Free,2.0,18.9229,72.8314,Shopping,Colaba,5.0,0,4,4
+9,Crawford Market,"Historic covered market with produce, household goods and local shopping.","shopping, market, bazaar, local shopping, food",Indoor,Free,2.0,18.9474,72.8311,Shopping,Masjid Bunder,5.0,0,4,4
+10,Chor Bazaar,"Famous old Mumbai market known for antiques, curiosities and vintage goods.","shopping, bazaar, antiques, vintage, market",Indoor,Free,2.0,18.9601,72.8297,Shopping,Grant Road,5.0,0,4,4
+11,Sanjay Gandhi National Park,"Large urban national park with forests, trails, caves and wildlife.","wildlife, nature, forest, park, animals, trekking",Outdoor,Paid,4.0,19.2147,72.9106,Wildlife,Borivali,5.0,0,2,5
+12,Kanheri Caves,Ancient Buddhist rock-cut caves within Sanjay Gandhi National Park.,"heritage, caves, buddhist, history, archaeology",Outdoor,Paid,3.0,19.207,72.9069,Heritage,Borivali,5.0,0,2,5
+13,Hanging Gardens,Terraced gardens on Malabar Hill with greenery and city views.,"nature, garden, greenery, park, viewpoint",Outdoor,Free,1.5,18.9558,72.8048,Nature,Malabar Hill,5.0,0,2,5
+14,Bandra-Worli Sea Link,Iconic cable-stayed bridge and Mumbai skyline landmark.,"scenic, landmark, bridge, sea, architecture",Outdoor,Free,1.0,19.037,72.817,Scenic,Bandra-Worli,5.0,0,3,5
+15,High Street Phoenix,Large shopping and entertainment complex in Lower Parel.,"shopping, mall, retail, restaurants, entertainment",Indoor,Free,3.0,18.994,72.8258,Shopping,Lower Parel,5.0,0,4,4
+16,Leopold Cafe,Historic Colaba cafe and restaurant popular with visitors.,"food, restaurant, cafe, local dining",Indoor,Paid,1.5,18.9226,72.8319,Food,Colaba,5.0,0,5,4
+17,Global Vipassana Pagoda,Large Buddhist meditation monument near Gorai with a peaceful setting.,"religious, buddhist, meditation, spiritual, pagoda",Indoor,Free,2.5,19.2307,72.8364,Religious,Gorai,5.0,0,3,4
+18,Nehru Science Centre,Interactive science museum and educational attraction in Worli.,"museum, science, education, family, indoor",Indoor,Paid,2.5,18.9908,72.8186,Museum,Worli,5.0,0,5,4
+19,Mahalaxmi Temple,Historic Hindu temple dedicated to Goddess Mahalakshmi.,"religious, temple, hindu, worship, prayer",Indoor,Free,1.5,18.9797,72.8033,Religious,Mahalaxmi,5.0,0,4,4
+20,Mount Mary Church,Historic Basilica in Bandra and a major Christian pilgrimage site.,"religious, church, christian, basilica, prayer",Indoor,Free,1.0,19.05,72.8247,Religious,Bandra,5.0,0,5,4
+21,Bandra Fort (Land's End),Historic fort overlooking the Arabian Sea near Bandra Bandstand.,"heritage, fort, history, sea, landmark",Outdoor,Free,1.5,19.0437,72.8194,Heritage,Mumbai,5.0,0,2,5
+22,Worli Sea Face,Seafront promenade with views of the Arabian Sea and Sea Link.,"scenic, sea, promenade, sunset, coastline",Outdoor,Free,1.5,19.0147,72.8179,Scenic,Worli,5.0,0,2,5
+23,Versova Beach,Western Mumbai beach known for coastal walks and sunsets.,"beach, sea, coastline, sunset",Outdoor,Free,2.0,19.1301,72.8131,Beach,Versova,5.0,0,1,5
+24,Aksa Beach,Wide beach in Malad with open coastal views and a quieter setting.,"beach, sea, coastline, sunset, nature",Outdoor,Free,2.5,19.1759,72.7958,Beach,Malad,5.0,0,1,5
+25,Powai Lake,Urban lake surrounded by greenery and a popular scenic area.,"nature, lake, greenery, scenic, birds",Outdoor,Free,2.0,19.124,72.9081,Nature,Powai,5.0,0,2,5
+26,Film City,Bollywood studio complex offering film and entertainment experiences.,"entertainment, bollywood, film, studio, tour",Outdoor,Paid,3.0,19.1628,72.8894,Entertainment,Goregaon,5.0,0,2,5
+27,Kamala Nehru Park,Hilltop city park with greenery and views toward Marine Drive.,"nature, park, greenery, viewpoint, family",Outdoor,Free,1.5,18.9552,72.8042,Nature,Malabar Hill,5.0,0,2,5
+28,ISKCON Temple Juhu,"Hare Krishna temple complex with worship, spirituality and vegetarian food.","religious, temple, hindu, spiritual, meditation",Indoor,Free,1.5,19.1147,72.825,Religious,Juhu,5.0,0,5,4
+29,Bandra Bandstand,"Seafront promenade popular for walks, views and evening outings.","scenic, sea, promenade, sunset, walking",Outdoor,Free,1.5,19.0428,72.8199,Scenic,Bandra,5.0,0,2,5
+30,Linking Road,"Popular Bandra shopping street with clothing, footwear and accessories.","shopping, street shopping, fashion, market",Outdoor,Free,2.0,19.0607,72.8362,Shopping,Bandra,5.0,0,4,4
+31,Kamala Mills Nightlife Strip,"Concentrated dining, bars and nightlife venues in Lower Parel.","nightlife, bars, pubs, restaurants, music",Indoor,Paid,3.0,18.9952,72.825,Nightlife,Lower Parel,5.0,0,4,4
+32,Mohammed Ali Road (Khau Galli),Famous food district known for street food and local specialties.,"food, street food, local cuisine, market, restaurants",Outdoor,Paid,2.5,18.9564,72.8326,Food,Mohammed Ali Road,5.0,0,2,5
+33,Girgaon Chowpatty,Central Mumbai beach combining seafront views with famous local snacks.,"beach, sea, sunset, street food, coastline",Outdoor,Free,2.0,18.9549,72.8121,Beach,Girgaon,5.0,0,1,5
+34,Byculla Zoo,Historic urban zoo with animal exhibits and family activities.,"wildlife, zoo, animals, family, park",Outdoor,Paid,2.5,18.9784,72.8331,Wildlife,Byculla,5.0,0,2,5
+35,Sewri Fort (Flamingo Point),Historic fort area near the coast and seasonal flamingo viewing zone.,"heritage, fort, history, flamingos, birds",Outdoor,Free,2.0,19.0007,72.8681,Heritage,Sewri,5.0,0,2,5
+36,Dharavi Heritage Walk,Guided cultural and community-focused walk through Dharavi.,"heritage, culture, walking, community, local life",Outdoor,Paid,2.5,19.039,72.852,Heritage,Dharavi,5.0,0,2,4
+37,Worli Fort,Small historic fort overlooking the Arabian Sea near Worli.,"heritage, fort, history, sea, architecture",Outdoor,Free,1.5,19.0134,72.815,Heritage,Worli,5.0,0,2,5
+38,Prithvi Theatre,Iconic Mumbai theatre and cultural venue in Juhu.,"entertainment, theatre, culture, arts, indoor",Indoor,Paid,2.0,19.1076,72.8256,Entertainment,Juhu,5.0,0,4,4
+39,Chhatrapati Shivaji Maharaj Terminus,UNESCO-listed railway terminus with elaborate Victorian Gothic architecture.,"heritage, UNESCO, architecture, history, landmark",Indoor,Free,1.5,18.9402,72.8356,Heritage,Mumbai,5.0,0,4,5
+40,Dr. Bhau Daji Lad Museum,"Mumbai's historic museum focused on art, design and city history.","museum, art, history, culture, indoor",Indoor,Paid,2.0,18.9797,72.8345,Museum,Byculla,5.0,0,5,4
+41,Mani Bhavan Gandhi Sangrahalaya,Historic museum and memorial associated with Mahatma Gandhi's Mumbai years.,"museum, history, Gandhi, culture, indoor",Indoor,Paid,1.5,18.9634,72.8111,Museum,Gamdevi,5.0,0,5,4
+42,National Gallery of Modern Art Mumbai,Gallery displaying modern Indian art in South Mumbai.,"museum, art, gallery, culture, indoor",Indoor,Paid,2.0,18.9256,72.8327,Museum,Kala Ghoda,5.0,0,5,4
+43,National Museum of Indian Cinema,"Museum exploring Indian cinema history, technology and filmmaking.","museum, cinema, bollywood, history, indoor",Indoor,Paid,2.0,18.972,72.8195,Museum,Peddar Road,5.0,0,5,4
+44,RBI Monetary Museum,"Museum covering Indian currency, banking and monetary history.","museum, history, finance, currency, indoor",Indoor,Free,1.5,18.9294,72.833,Museum,Fort,5.0,0,5,4
+45,Jehangir Art Gallery,Well-known Kala Ghoda gallery for contemporary and modern art exhibitions.,"art, gallery, culture, museum, indoor",Indoor,Free,1.5,18.9271,72.8311,Museum,Kala Ghoda,5.0,0,5,4
+46,David Sassoon Library,Historic Victorian-era library and heritage building in Kala Ghoda.,"heritage, library, architecture, history, indoor",Indoor,Free,1.0,18.9277,72.831,Heritage,Kala Ghoda,5.0,0,5,4
+47,Asiatic Society Library,Historic neoclassical library building overlooking Horniman Circle.,"heritage, library, architecture, history, culture",Indoor,Free,1.0,18.932,72.8356,Heritage,Fort,5.0,0,5,4
+48,Rajabai Clock Tower,Iconic Gothic clock tower and architectural landmark at Fort.,"heritage, architecture, landmark, history, Gothic",Outdoor,Free,1.0,18.9299,72.8308,Heritage,Fort,5.0,0,2,5
+49,Flora Fountain,Historic fountain and landmark at Fort surrounded by heritage buildings.,"heritage, monument, architecture, landmark, history",Outdoor,Free,1.0,18.932,72.8315,Heritage,Fort,5.0,0,2,5
+50,Kala Ghoda Art District,"Historic cultural precinct filled with galleries, museums and heritage buildings.","heritage, art, culture, galleries, architecture",Outdoor,Free,2.0,18.9271,72.831,Heritage,Kala Ghoda,5.0,0,3,5
+51,Banganga Tank,Ancient sacred water tank within the Walkeshwar temple complex.,"religious, heritage, temple, sacred, history",Outdoor,Free,1.5,18.9496,72.8004,Religious,Walkeshwar,5.0,0,2,5
+52,Walkeshwar Temple,Historic Shiva temple near Banganga Tank on Malabar Hill.,"religious, temple, hindu, worship, heritage",Indoor,Free,1.0,18.9497,72.8005,Religious,Walkeshwar,5.0,0,4,4
+53,Magen David Synagogue,Historic Jewish synagogue in Byculla with distinctive architecture.,"religious, synagogue, jewish, heritage, worship",Indoor,Free,1.0,18.9782,72.8335,Religious,Byculla,5.0,0,5,4
+54,Babulnath Temple,Historic Shiva temple on Malabar Hill with city views.,"religious, temple, hindu, worship, spiritual",Indoor,Free,1.5,18.958,72.8082,Religious,Girgaon,5.0,0,4,4
+55,Mahakali Caves,Ancient Buddhist rock-cut caves in Andheri.,"heritage, caves, buddhist, archaeology, history",Outdoor,Free,1.5,19.14,72.87,Heritage,Andheri,5.0,0,3,5
+56,Chhota Kashmir,Green recreational area in Aarey with gardens and outdoor leisure.,"nature, greenery, park, lake, recreation",Outdoor,Free,2.0,19.1407,72.8896,Nature,Goregaon,5.0,0,2,5
+57,Aarey Forest,Large green urban forest area with trails and natural landscapes.,"nature, forest, greenery, trails, birds",Outdoor,Free,2.5,19.145,72.9,Nature,Goregaon,5.0,0,1,5
+58,Sagar Upvan,Botanical garden in Colaba with greenery and sea views.,"nature, garden, greenery, plants, sea",Outdoor,Free,1.5,18.902,72.81,Nature,Colaba,5.0,0,2,5
+59,Horniman Circle Garden,Central green garden surrounded by historic Fort architecture.,"nature, garden, greenery, heritage, park",Outdoor,Free,1.0,18.9325,72.834,Nature,Fort,5.0,0,2,5
+60,Five Gardens,Large green recreational garden complex in Matunga.,"nature, garden, park, greenery, walking",Outdoor,Free,1.5,19.028,72.855,Nature,Matunga,5.0,0,2,5
+61,Marve Beach,Quieter western Mumbai beach with coastal scenery and open views.,"beach, sea, coastline, sunset, nature",Outdoor,Free,2.0,19.1874,72.795,Beach,Malad,5.0,0,1,5
+62,Manori Beach,Coastal beach area north of Mumbai with a relaxed village atmosphere.,"beach, sea, coastline, nature, sunset",Outdoor,Free,3.0,19.204,72.789,Beach,Manori,5.0,0,1,5
+63,Gorai Beach,Popular beach near Gorai with open coastal views and leisure activities.,"beach, sea, coastline, sunset, recreation",Outdoor,Free,2.5,19.202,72.775,Beach,Gorai,5.0,0,1,5
+64,Dadar Chowpatty,Smaller seafront recreation spot in central Mumbai.,"beach, sea, promenade, sunset, walking",Outdoor,Free,1.5,19.02,72.835,Beach,Dadar,5.0,0,1,5
+65,Phoenix Marketcity,Large indoor shopping and entertainment mall in Kurla.,"shopping, mall, retail, restaurants, entertainment",Indoor,Free,3.0,19.086,72.889,Shopping,Kurla,5.0,0,5,4
+66,R City Mall,Large indoor shopping and entertainment complex in Ghatkopar.,"shopping, mall, retail, restaurants, entertainment",Indoor,Free,3.0,19.099,72.916,Shopping,Ghatkopar,5.0,0,5,4
+67,Inorbit Mall Malad,"Large indoor mall with retail, dining and entertainment.","shopping, mall, retail, food, entertainment",Indoor,Free,2.5,19.173,72.835,Shopping,Malad,5.0,0,5,4
+68,Korum Mall,Large shopping and entertainment destination in Thane.,"shopping, mall, retail, food, entertainment",Indoor,Free,2.5,19.206,72.972,Shopping,Mumbai,5.0,0,5,4
+69,Hill Road Bandra,Busy shopping street with fashion stores and local shopping.,"shopping, street shopping, fashion, market",Outdoor,Free,2.0,19.055,72.826,Shopping,Bandra,5.0,0,4,4
+70,Zaveri Bazaar,Historic jewelry market in South Mumbai.,"shopping, market, jewelry, bazaar, heritage",Indoor,Free,2.0,18.9515,72.8295,Shopping,Kalbadevi,5.0,0,4,4
+71,Lamington Road,Electronics and computer market in central South Mumbai.,"shopping, electronics, market, gadgets, street shopping",Indoor,Free,2.0,18.9635,72.819,Shopping,Grant Road,5.0,0,4,4
+72,Manish Market,Busy electronics and wholesale shopping area near Crawford Market.,"shopping, electronics, market, wholesale, street shopping",Indoor,Free,2.0,18.947,72.831,Shopping,Masjid Bunder,5.0,0,4,4
+73,Sarafa Bazaar,Traditional market area known for jewelry and local shopping.,"shopping, jewelry, bazaar, market",Indoor,Free,1.5,18.951,72.83,Shopping,Kalbadevi,5.0,0,4,4
+74,Bandra Kurla Complex,"Modern business district with dining, events and urban architecture.","scenic, modern, architecture, dining, city",Outdoor,Free,2.0,19.0607,72.8648,Scenic,Bandra Kurla Complex,5.0,0,2,5
+75,Carter Road Promenade,"Seafront promenade with walking, sunset and cafes in Bandra.","scenic, sea, promenade, sunset, walking, cafes",Outdoor,Free,2.0,19.068,72.824,Scenic,Bandra,5.0,0,2,5
+76,Worli Promenade,Coastal promenade with views toward the Sea Link and Arabian Sea.,"scenic, sea, promenade, sunset, walking",Outdoor,Free,1.5,19.017,72.817,Scenic,Worli,5.0,0,2,5
+77,Nariman Point,Southern waterfront business district with sea views and evening walks.,"scenic, sea, skyline, promenade, sunset",Outdoor,Free,1.5,18.925,72.823,Scenic,Nariman Point,5.0,0,2,5
+78,NCPA,"Major performing arts complex hosting theatre, music and cultural events.","entertainment, theatre, music, culture, indoor",Indoor,Paid,2.5,18.925,72.819,Entertainment,Nariman Point,5.0,0,5,4
+79,Royal Opera House,Historic performing arts venue and architectural landmark.,"entertainment, theatre, heritage, architecture, indoor",Indoor,Paid,2.0,18.96,72.8115,Entertainment,Girgaon,5.0,0,5,4
+80,Nehru Planetarium,Planetarium and astronomy education center in Worli.,"entertainment, science, planetarium, education, indoor",Indoor,Paid,2.0,18.986,72.817,Entertainment,Worli,5.0,0,5,4
+81,EsselWorld,Large amusement park and entertainment destination near Gorai.,"entertainment, amusement park, rides, family",Outdoor,Paid,5.0,19.23,72.805,Entertainment,Gorai,5.0,0,1,5
+82,Water Kingdom,Water park near Gorai with slides and family attractions.,"entertainment, water park, rides, family",Outdoor,Paid,5.0,19.228,72.806,Entertainment,Gorai,5.0,0,1,5
+83,Hard Rock Cafe Mumbai,Music-themed restaurant and nightlife venue in Andheri.,"nightlife, music, restaurant, live music, bar",Indoor,Paid,2.5,19.12,72.837,Nightlife,Andheri,5.0,0,4,4
+84,Toit Mumbai,Popular brewery and restaurant with an indoor nightlife atmosphere.,"nightlife, brewery, restaurant, music, bar",Indoor,Paid,3.0,19.12,72.85,Nightlife,Lower Parel,5.0,0,4,4
+85,Social Lower Parel,Casual dining and nightlife venue in Lower Parel.,"nightlife, restaurant, bar, music, evening",Indoor,Paid,3.0,18.995,72.825,Nightlife,Lower Parel,5.0,0,4,4
+86,The Bombay Canteen,Modern Indian restaurant known for regional cuisine and dining.,"food, restaurant, indian cuisine, dining",Indoor,Paid,2.0,19.0,72.823,Food,Lower Parel,5.0,0,5,4
+87,Britannia & Co.,Historic Irani restaurant in Ballard Estate.,"food, restaurant, parsi, irani, heritage",Indoor,Paid,1.5,18.9325,72.839,Food,Ballard Estate,5.0,0,5,4
+88,Bademiya,Long-running Mumbai food destination known for kebabs and late dining.,"food, street food, kebabs, restaurant, local cuisine",Outdoor,Paid,1.5,18.9215,72.832,Food,Colaba,5.0,0,3,5
+89,Cafe Madras,Popular South Indian restaurant in Matunga.,"food, restaurant, south indian, dosa, local cuisine",Indoor,Paid,1.5,19.027,72.855,Food,Matunga,5.0,0,5,4
+90,Ram Ashraya,Classic Matunga restaurant known for South Indian breakfast and snacks.,"food, restaurant, south indian, breakfast, vegetarian",Indoor,Paid,1.5,19.0275,72.8555,Food,Matunga,5.0,0,5,4
+91,Kyani & Co.,Historic Irani cafe near Marine Lines.,"food, cafe, irani, bakery, heritage",Indoor,Paid,1.0,18.945,72.827,Food,Marine Lines,5.0,0,4,4
+92,Aaswad,Traditional Maharashtrian restaurant in Dadar.,"food, restaurant, maharashtrian, local cuisine",Indoor,Paid,1.5,19.019,72.843,Food,Dadar,5.0,0,4,4
+93,Prakash Shakahari Upahaar Kendra,Traditional vegetarian Maharashtrian eatery in Dadar.,"food, restaurant, maharashtrian, vegetarian, local cuisine",Indoor,Paid,1.5,19.019,72.843,Food,Dadar,5.0,0,5,4
+94,Sanjay Gandhi National Park Nature Trails,Nature-focused trails and outdoor experiences inside SGNP.,"wildlife, nature, forest, trekking, birds",Outdoor,Paid,3.0,19.2147,72.9106,Wildlife,Borivali,5.0,0,1,5
+95,Maharashtra Nature Park,"Urban biodiversity park with greenery, birds and environmental learning.","wildlife, nature, birds, park, environment",Outdoor,Paid,2.0,19.03,72.855,Wildlife,Mahim,5.0,0,2,5
+96,Sewri Mudflats,Coastal mudflats known for seasonal migratory flamingo sightings.,"wildlife, birds, flamingos, nature, wetlands",Outdoor,Free,2.0,19.0,72.87,Wildlife,Sewri,5.0,0,1,5
+97,Oval Maidan,Large open historic recreation ground surrounded by heritage architecture.,"nature, park, greenery, heritage, walking",Outdoor,Free,1.5,18.929,72.825,Nature,Mumbai,5.0,0,1,5
+98,St. Thomas' Cathedral,"St. Thomas' Cathedral in Fort, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, fort",Outdoor,Medium,2.0,,,Heritage,Fort,5.0,0,3,4
+99,Bombay High Court,"Bombay High Court in Fort, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, fort",Outdoor,Medium,2.0,,,Heritage,Fort,5.0,0,3,4
+100,University of Mumbai Fort,"University of Mumbai Fort in Fort, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, fort",Outdoor,Medium,2.0,,,Heritage,Fort,5.0,0,3,4
+101,Keneseth Eliyahoo Synagogue,"Keneseth Eliyahoo Synagogue in Kala Ghoda, Mumbai. religious experience suitable for exploring Mumbai.","religious, Mumbai, kala ghoda",Indoor,Medium,2.0,,,Religious,Kala Ghoda,5.0,0,4,4
+102,Asiatic Library,"Asiatic Library in Fort, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, fort",Outdoor,Medium,2.0,,,Heritage,Fort,5.0,0,3,4
+103,Horniman Circle,"Horniman Circle in Fort, Mumbai. scenic experience suitable for exploring Mumbai.","scenic, Mumbai, fort",Outdoor,Medium,2.0,,,Scenic,Fort,5.0,0,3,5
+104,Bhau Daji Lad Museum Courtyard,"Bhau Daji Lad Museum Courtyard in Byculla, Mumbai. museum experience suitable for exploring Mumbai.","museum, Mumbai, byculla",Indoor,Medium,2.0,,,Museum,Byculla,5.0,0,4,4
+105,Victoria Gardens,"Victoria Gardens in Byculla, Mumbai. nature experience suitable for exploring Mumbai.","nature, Mumbai, byculla",Outdoor,Medium,2.0,,,Nature,Byculla,5.0,0,2,5
+106,Gloria Church,"Gloria Church in Byculla, Mumbai. religious experience suitable for exploring Mumbai.","religious, Mumbai, byculla",Indoor,Medium,2.0,,,Religious,Byculla,5.0,0,4,4
+107,Mahalaxmi Racecourse,"Mahalaxmi Racecourse in Mahalaxmi, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, mahalaxmi",Indoor,Medium,2.0,,,Entertainment,Mahalaxmi,5.0,0,4,4
+108,Mahalaxmi Dhobi Ghat,"Mahalaxmi Dhobi Ghat in Mahalaxmi, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, mahalaxmi",Outdoor,Medium,2.0,,,Heritage,Mahalaxmi,5.0,0,3,4
+109,Mahalaxmi Railway Heritage Walk,"Mahalaxmi Railway Heritage Walk in Mahalaxmi, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, mahalaxmi",Outdoor,Medium,2.0,,,Heritage,Mahalaxmi,5.0,0,3,4
+110,Worli Village,"Worli Village in Worli, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, worli",Outdoor,Medium,2.0,,,Heritage,Worli,5.0,0,3,4
+111,Nehru Centre,"Nehru Centre in Worli, Mumbai. museum experience suitable for exploring Mumbai.","museum, Mumbai, worli",Indoor,Medium,2.0,,,Museum,Worli,5.0,0,4,4
+112,Priyadarshini Park,"Priyadarshini Park in Malabar Hill, Mumbai. nature experience suitable for exploring Mumbai.","nature, Mumbai, malabar hill",Outdoor,Medium,2.0,,,Nature,Malabar Hill,5.0,0,2,5
+113,Taraporewala Aquarium,"Taraporewala Aquarium in Marine Drive, Mumbai. wildlife experience suitable for exploring Mumbai.","wildlife, Mumbai, marine drive",Outdoor,Medium,2.0,,,Wildlife,Marine Drive,5.0,0,2,5
+114,Marine Drive Promenade,"Marine Drive Promenade in Marine Drive, Mumbai. scenic experience suitable for exploring Mumbai.","scenic, Mumbai, marine drive",Outdoor,Medium,2.0,,,Scenic,Marine Drive,7.0,0,3,5
+115,Regal Cinema,"Regal Cinema in Colaba, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, colaba",Indoor,Medium,2.0,,,Entertainment,Colaba,5.0,0,4,4
+116,Cafe Mondegar,"Cafe Mondegar in Colaba, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, colaba",Indoor,Medium,2.0,,,Food,Colaba,5.0,0,4,4
+117,Sea Lounge,"Sea Lounge in Colaba, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, colaba",Indoor,Medium,2.0,,,Food,Colaba,5.0,0,4,4
+118,Subko Coffee,"Subko Coffee in Colaba, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, colaba",Indoor,Medium,2.0,,,Food,Colaba,5.0,0,4,4
+119,Trishna,"Trishna in Fort, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, fort",Indoor,Medium,2.0,,,Food,Fort,5.0,0,4,4
+120,Khyber,"Khyber in Kala Ghoda, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, kala ghoda",Indoor,Medium,2.0,,,Food,Kala Ghoda,5.0,0,4,4
+121,Kala Ghoda Cafe,"Kala Ghoda Cafe in Kala Ghoda, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, kala ghoda",Indoor,Medium,2.0,,,Food,Kala Ghoda,5.0,0,4,4
+122,Cafe Excelsior,"Cafe Excelsior in Fort, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, fort",Indoor,Medium,2.0,,,Food,Fort,5.0,0,4,4
+123,The Clearing House,"The Clearing House in Fort, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, fort",Indoor,Medium,2.0,,,Food,Fort,5.0,0,4,4
+124,Mockingbird Cafe Bar,"Mockingbird Cafe Bar in Churchgate, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, churchgate",Indoor,Medium,2.0,,,Food,Churchgate,5.0,0,4,4
+125,Shree Thaker Bhojon,"Shree Thaker Bhojon in Kalbadevi, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, kalbadevi",Indoor,Medium,2.0,,,Food,Kalbadevi,5.0,0,4,4
+126,Mumbadevi Temple,"Mumbadevi Temple in Kalbadevi, Mumbai. religious experience suitable for exploring Mumbai.","religious, Mumbai, kalbadevi",Indoor,Medium,2.0,,,Religious,Kalbadevi,5.0,0,4,4
+127,Bhendi Bazaar,"Bhendi Bazaar in Bhendi Bazaar, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, bhendi bazaar",Indoor,Medium,2.0,,,Shopping,Bhendi Bazaar,5.0,0,4,4
+128,Minara Masjid,"Minara Masjid in Mohammed Ali Road, Mumbai. religious experience suitable for exploring Mumbai.","religious, Mumbai, mohammed ali road",Indoor,Medium,2.0,,,Religious,Mohammed Ali Road,5.0,0,4,4
+129,Heera Panna Market,"Heera Panna Market in Haji Ali, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, haji ali",Indoor,Medium,2.0,,,Shopping,Haji Ali,5.0,0,4,4
+130,Swati Snacks,"Swati Snacks in Tardeo, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, tardeo",Indoor,Medium,2.0,,,Food,Tardeo,5.0,0,4,4
+131,Sardar Refreshments,"Sardar Refreshments in Tardeo, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, tardeo",Indoor,Medium,2.0,,,Food,Tardeo,5.0,0,4,4
+132,Soam,"Soam in Babulnath, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, babulnath",Indoor,Medium,2.0,,,Food,Babulnath,5.0,0,4,4
+133,Gajalee,"Gajalee in Vile Parle, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, vile parle",Indoor,Medium,2.0,,,Food,Vile Parle,5.0,0,4,4
+134,Mahesh Lunch Home,"Mahesh Lunch Home in Juhu, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, juhu",Indoor,Medium,2.0,,,Food,Juhu,5.0,0,4,4
+135,Prithvi Cafe,"Prithvi Cafe in Juhu, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, juhu",Indoor,Medium,2.0,,,Food,Juhu,5.0,0,4,4
+136,Natural Ice Cream,"Natural Ice Cream in Juhu, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, juhu",Indoor,Medium,2.0,,,Food,Juhu,5.0,0,4,4
+137,Theobroma Bandra,"Theobroma Bandra in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+138,Bastian Mumbai,"Bastian Mumbai in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+139,Candies,"Candies in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+140,Pali Bhavan,Modern Indian restaurant in the historic Eros/Cambata building overlooking Oval Maidan.,"Food, North Indian, Heritage, Dining",Indoor,Medium,2.0,18.9295,72.8282,Food,Churchgate,8.7,1200,4,4
+141,The Bagel Shop,"The Bagel Shop in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+142,Bombay Salad Co.,"Bombay Salad Co. in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+143,Veranda,"Veranda in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+144,Elco Pani Puri Centre,"Elco Pani Puri Centre in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+145,Blue Tokai Bandra,"Blue Tokai Bandra in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+146,Third Wave Coffee Bandra,"Third Wave Coffee Bandra in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+147,Nara Thai Bandra,"Nara Thai Bandra in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+148,Raju Omlet,"Raju Omlet in Bandra, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bandra",Indoor,Medium,2.0,,,Food,Bandra,5.0,0,4,4
+149,Cafe Mysore,"Cafe Mysore in Matunga, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, matunga",Indoor,Medium,2.0,,,Food,Matunga,5.0,0,4,4
+150,Udipi Shri Krishna Boarding,"Udipi Shri Krishna Boarding in Matunga, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, matunga",Indoor,Medium,2.0,,,Food,Matunga,5.0,0,4,4
+151,Mani's Lunch Home,"Mani's Lunch Home in Matunga, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, matunga",Indoor,Medium,2.0,,,Food,Matunga,5.0,0,4,4
+152,Gypsy Corner,"Gypsy Corner in Shivaji Park, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, shivaji park",Indoor,Medium,2.0,,,Food,Shivaji Park,5.0,0,4,4
+153,Dadar Flower Market,"Dadar Flower Market in Dadar, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, dadar",Indoor,Medium,2.0,,,Shopping,Dadar,5.0,0,4,4
+154,Shivaji Park,"Shivaji Park in Dadar, Mumbai. nature experience suitable for exploring Mumbai.","nature, Mumbai, dadar",Outdoor,Medium,2.0,,,Nature,Dadar,7.0,0,2,5
+155,Goan Cart,"Goan Cart in Dadar, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, dadar",Indoor,Medium,2.0,,,Food,Dadar,5.0,0,4,4
+156,Aaswad Upahar Griha,"Aaswad Upahar Griha in Dadar, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, dadar",Indoor,Medium,2.0,,,Food,Dadar,5.0,0,4,4
+157,SIES College Area,"SIES College Area in Sion, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, sion",Outdoor,Medium,2.0,,,Heritage,Sion,5.0,0,3,4
+158,Sion Fort,"Sion Fort in Sion, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, sion",Outdoor,Medium,2.0,,,Heritage,Sion,5.0,0,3,4
+159,Shanmukhananda Hall,"Shanmukhananda Hall in Sion, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, sion",Indoor,Medium,2.0,,,Entertainment,Sion,5.0,0,4,4
+160,King's Circle,"King's Circle in Matunga, Mumbai. scenic experience suitable for exploring Mumbai.","scenic, Mumbai, matunga",Outdoor,Medium,2.0,,,Scenic,Matunga,5.0,0,3,5
+161,Matunga Market,"Matunga Market in Matunga, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, matunga",Indoor,Medium,2.0,,,Shopping,Matunga,5.0,0,4,4
+162,Pali Hill,"Pali Hill in Bandra, Mumbai. scenic experience suitable for exploring Mumbai.","scenic, Mumbai, bandra",Outdoor,Medium,2.0,,,Scenic,Bandra,5.0,0,3,5
+163,Bandra Lake,"Bandra Lake in Bandra, Mumbai. nature experience suitable for exploring Mumbai.","nature, Mumbai, bandra",Outdoor,Medium,2.0,,,Nature,Bandra,5.0,0,2,5
+164,Bandra Reclamation,"Bandra Reclamation in Bandra, Mumbai. scenic experience suitable for exploring Mumbai.","scenic, Mumbai, bandra",Outdoor,Medium,2.0,,,Scenic,Bandra,5.0,0,3,5
+165,St. Andrew's Church,"St. Andrew's Church in Bandra, Mumbai. religious experience suitable for exploring Mumbai.","religious, Mumbai, bandra",Indoor,Medium,2.0,,,Religious,Bandra,5.0,0,4,4
+166,Mount Mary Basilica,"Mount Mary Basilica in Bandra, Mumbai. religious experience suitable for exploring Mumbai.","religious, Mumbai, bandra",Indoor,Medium,2.0,,,Religious,Bandra,5.0,0,4,4
+167,Carter Road,"Carter Road in Bandra, Mumbai. scenic experience suitable for exploring Mumbai.","scenic, Mumbai, bandra",Outdoor,Medium,2.0,,,Scenic,Bandra,5.0,0,3,5
+168,Link Square Mall,"Link Square Mall in Bandra, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, bandra",Indoor,Medium,2.0,,,Shopping,Bandra,5.0,0,4,4
+169,Pali Market,"Pali Market in Bandra, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, bandra",Indoor,Medium,2.0,,,Shopping,Bandra,5.0,0,4,4
+170,Andheri Sports Complex,"Andheri Sports Complex in Andheri, Mumbai. sports experience suitable for exploring Mumbai.","sports, Mumbai, andheri",Outdoor,Medium,2.0,,,Sports,Andheri,5.0,0,2,5
+171,Gilbert Hill,"Gilbert Hill in Andheri, Mumbai. scenic experience suitable for exploring Mumbai.","scenic, Mumbai, andheri",Outdoor,Medium,2.0,,,Scenic,Andheri,5.0,0,3,5
+172,Lokhandwala Market,"Lokhandwala Market in Andheri, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, andheri",Indoor,Medium,2.0,,,Shopping,Andheri,5.0,0,4,4
+173,Versova Koliwada,"Versova Koliwada in Versova, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, versova",Outdoor,Medium,2.0,,,Heritage,Versova,5.0,0,3,4
+174,Versova Social,"Versova Social in Versova, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, versova",Indoor,Medium,2.0,,,Food,Versova,5.0,0,4,4
+175,Madh Island,"Madh Island in Madh, Mumbai. beach experience suitable for exploring Mumbai.","beach, Mumbai, madh",Outdoor,Medium,2.0,,,Beach,Madh,5.0,0,2,5
+176,Madh Fort,"Madh Fort in Madh, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, madh",Outdoor,Medium,2.0,,,Heritage,Madh,5.0,0,3,4
+177,Mindspace Malad,"Mindspace Malad in Malad, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, malad",Indoor,Medium,2.0,,,Entertainment,Malad,5.0,0,4,4
+178,Infiniti Mall Malad,"Infiniti Mall Malad in Malad, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, malad",Indoor,Medium,2.0,,,Shopping,Malad,5.0,0,4,4
+179,Oberoi Mall,"Oberoi Mall in Goregaon, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, goregaon",Indoor,Medium,2.0,,,Shopping,Goregaon,5.0,0,4,4
+180,Growel's 101,"Growel's 101 in Kandivali, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, kandivali",Indoor,Medium,2.0,,,Shopping,Kandivali,5.0,0,4,4
+181,Vihar Lake,"Vihar Lake in Borivali, Mumbai. nature experience suitable for exploring Mumbai.","nature, Mumbai, borivali",Outdoor,Medium,2.0,,,Nature,Borivali,5.0,0,2,5
+182,Tulsi Lake,"Tulsi Lake in Borivali, Mumbai. nature experience suitable for exploring Mumbai.","nature, Mumbai, borivali",Outdoor,Medium,2.0,,,Nature,Borivali,5.0,0,2,5
+183,Jio World Drive,"Jio World Drive in BKC, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, bkc",Indoor,Medium,2.0,,,Shopping,BKC,7.0,0,4,4
+184,Nita Mukesh Ambani Cultural Centre,"Nita Mukesh Ambani Cultural Centre in BKC, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, bkc",Indoor,Medium,2.0,,,Entertainment,BKC,7.0,0,4,4
+185,Jio World Plaza,"Jio World Plaza in BKC, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, bkc",Indoor,Medium,2.0,,,Shopping,BKC,5.0,0,4,4
+186,Masala Library Mumbai,"Masala Library Mumbai in BKC, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bkc",Indoor,Medium,2.0,,,Food,BKC,5.0,0,4,4
+187,Yauatcha Mumbai,"Yauatcha Mumbai in BKC, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bkc",Indoor,Medium,2.0,,,Food,BKC,5.0,0,4,4
+188,Foo Asian Tapas,"Foo Asian Tapas in BKC, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bkc",Indoor,Medium,2.0,,,Food,BKC,5.0,0,4,4
+189,The Good Wife,"The Good Wife in BKC, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bkc",Indoor,Medium,2.0,,,Food,BKC,5.0,0,4,4
+190,BKC Food District,"BKC Food District in BKC, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, bkc",Indoor,Medium,2.0,,,Food,BKC,5.0,0,4,4
+191,BKC Art District,"BKC Art District in BKC, Mumbai. art experience suitable for exploring Mumbai.","art, Mumbai, bkc",Indoor,Medium,2.0,,,Art,BKC,5.0,0,4,4
+192,Phoenix Palladium,"Phoenix Palladium in Lower Parel, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, lower parel",Indoor,Medium,2.0,,,Shopping,Lower Parel,5.0,0,4,4
+193,Palladium Mumbai,"Palladium Mumbai in Lower Parel, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, lower parel",Indoor,Medium,2.0,,,Shopping,Lower Parel,5.0,0,4,4
+194,Kamala Mills,"Kamala Mills in Lower Parel, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, lower parel",Indoor,Medium,2.0,,,Entertainment,Lower Parel,5.0,0,4,4
+195,Koko Mumbai,"Koko Mumbai in Lower Parel, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, lower parel",Indoor,Medium,2.0,,,Food,Lower Parel,5.0,0,4,4
+196,145 The Mill,"145 The Mill in Lower Parel, Mumbai. food experience suitable for exploring Mumbai.","food, Mumbai, lower parel",Indoor,Medium,2.0,,,Food,Lower Parel,5.0,0,4,4
+197,Lord of the Drinks,"Lord of the Drinks in Lower Parel, Mumbai. nightlife experience suitable for exploring Mumbai.","nightlife, Mumbai, lower parel",Indoor,Medium,2.0,,,Nightlife,Lower Parel,5.0,0,4,4
+198,antiSOCIAL Mumbai,"antiSOCIAL Mumbai in Lower Parel, Mumbai. nightlife experience suitable for exploring Mumbai.","nightlife, Mumbai, lower parel",Indoor,Medium,2.0,,,Nightlife,Lower Parel,5.0,0,4,4
+199,Kitty Su Mumbai,"Kitty Su Mumbai in Andheri, Mumbai. nightlife experience suitable for exploring Mumbai.","nightlife, Mumbai, andheri",Indoor,Medium,2.0,,,Nightlife,Andheri,5.0,0,4,4
+200,The Little Door,"The Little Door in Andheri, Mumbai. nightlife experience suitable for exploring Mumbai.","nightlife, Mumbai, andheri",Indoor,Medium,2.0,,,Nightlife,Andheri,5.0,0,4,4
+201,Hoppipola Mumbai,"Hoppipola Mumbai in Andheri, Mumbai. nightlife experience suitable for exploring Mumbai.","nightlife, Mumbai, andheri",Indoor,Medium,2.0,,,Nightlife,Andheri,5.0,0,4,4
+202,The Bombay Bronx,"The Bombay Bronx in Colaba, Mumbai. nightlife experience suitable for exploring Mumbai.","nightlife, Mumbai, colaba",Indoor,Medium,2.0,,,Nightlife,Colaba,5.0,0,4,4
+203,Ravindra Natya Mandir,"Ravindra Natya Mandir in Prabhadevi, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, prabhadevi",Indoor,Medium,2.0,,,Entertainment,Prabhadevi,5.0,0,4,4
+204,National Centre for the Performing Arts,"National Centre for the Performing Arts in Nariman Point, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, nariman point",Indoor,Medium,2.0,,,Entertainment,Nariman Point,5.0,0,4,4
+205,Nehru Centre Discovery of India,"Nehru Centre Discovery of India in Worli, Mumbai. museum experience suitable for exploring Mumbai.","museum, Mumbai, worli",Indoor,Medium,2.0,,,Museum,Worli,5.0,0,4,4
+206,PVR ICON Phoenix,"PVR ICON Phoenix in Lower Parel, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, lower parel",Indoor,Medium,2.0,,,Entertainment,Lower Parel,5.0,0,4,4
+207,PVR INOX Juhu,"PVR INOX Juhu in Juhu, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, juhu",Indoor,Medium,2.0,,,Entertainment,Juhu,5.0,0,4,4
+208,Jio World Convention Centre,"Jio World Convention Centre in BKC, Mumbai. entertainment experience suitable for exploring Mumbai.","entertainment, Mumbai, bkc",Indoor,Medium,2.0,,,Entertainment,BKC,5.0,0,4,4
+209,Shivaji Park Gymkhana,"Shivaji Park Gymkhana in Dadar, Mumbai. sports experience suitable for exploring Mumbai.","sports, Mumbai, dadar",Outdoor,Medium,2.0,,,Sports,Dadar,5.0,0,2,5
+210,Bombay Gymkhana,"Bombay Gymkhana in Fort, Mumbai. sports experience suitable for exploring Mumbai.","sports, Mumbai, fort",Outdoor,Medium,2.0,,,Sports,Fort,5.0,0,2,5
+211,Cross Maidan,"Cross Maidan in Fort, Mumbai. nature experience suitable for exploring Mumbai.","nature, Mumbai, fort",Outdoor,Medium,2.0,,,Nature,Fort,5.0,0,2,5
+212,Azad Maidan,"Azad Maidan in Fort, Mumbai. nature experience suitable for exploring Mumbai.","nature, Mumbai, fort",Outdoor,Medium,2.0,,,Nature,Fort,5.0,0,2,5
+213,Mahim Fort,"Mahim Fort in Mahim, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, mahim",Outdoor,Medium,2.0,,,Heritage,Mahim,5.0,0,3,4
+214,St. Michael's Church,"St. Michael's Church in Mahim, Mumbai. religious experience suitable for exploring Mumbai.","religious, Mumbai, mahim",Indoor,Medium,2.0,,,Religious,Mahim,5.0,0,4,4
+215,Mahim Causeway,"Mahim Causeway in Mahim, Mumbai. scenic experience suitable for exploring Mumbai.","scenic, Mumbai, mahim",Outdoor,Medium,2.0,,,Scenic,Mahim,5.0,0,3,5
+216,Dharavi Pottery Cluster,"Dharavi Pottery Cluster in Dharavi, Mumbai. art experience suitable for exploring Mumbai.","art, Mumbai, dharavi",Indoor,Medium,2.0,,,Art,Dharavi,5.0,0,4,4
+217,Sewri Fort,"Sewri Fort in Sewri, Mumbai. heritage experience suitable for exploring Mumbai.","heritage, Mumbai, sewri",Outdoor,Medium,2.0,,,Heritage,Sewri,5.0,0,3,4
+218,Lamington Road Market,"Lamington Road Market in Grant Road, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, grant road",Indoor,Medium,2.0,,,Shopping,Grant Road,5.0,0,4,4
+219,Dadar Market,"Dadar Market in Dadar, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, dadar",Indoor,Medium,2.0,,,Shopping,Dadar,5.0,0,4,4
+220,Hill Road Market,"Hill Road Market in Bandra, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, bandra",Indoor,Medium,2.0,,,Shopping,Bandra,5.0,0,4,4
+221,Linking Road Market,"Linking Road Market in Bandra, Mumbai. shopping experience suitable for exploring Mumbai.","shopping, Mumbai, bandra",Indoor,Medium,2.0,,,Shopping,Bandra,5.0,0,4,4
+222,Juhu Chowpatty,"Juhu Chowpatty in Juhu, Mumbai. beach experience suitable for exploring Mumbai.","beach, Mumbai, juhu",Outdoor,Medium,2.0,,,Beach,Juhu,5.0,0,2,5

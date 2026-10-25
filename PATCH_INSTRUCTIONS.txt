@@ -1,0 +1,19 @@
+TRIPSENSE PREMIUM UPGRADE
+
+Keep your existing data/mumbai_places.csv (your 222-place dataset).
+Replace:
+  app.py
+  recommender.py
+  evaluate.py
+  generate_embeddings.py
+  requirements.txt
+  README.md
+
+The recommender will automatically rebuild data/place_embeddings.npy when the row count is stale.
+
+Run:
+  venv\Scripts\activate
+  pip install -r requirements.txt
+  streamlit run app.py
+
+This upgrade adds images, Google Maps links, route links when an area is selected, a recommendation map, food-style filtering, popularity-aware ranking, weather alternatives, and a structural evaluation script.

@@ -1,0 +1,93 @@
+TripSense — Image Accuracy Audit
+Date: 23 Sep 2026
+
+Dataset reviewed: 222 places from mumbai_places.csv.
+Local image files found: 218.
+Image manifest entries found: 10.
+Places without a matching local image or manifest entry: 5.
+
+The audit was a visual consistency pass over the supplied image library. It identifies high-confidence mismatches where the image is clearly unrelated to the named destination (for example a bird, anime illustration, flowchart, currency image, unrelated portrait, or another venue). Some generic venue/food photos were marked for review rather than automatically replaced when their relationship to the venue could not be established from the image alone.
+
+High-confidence / needs-replacement or review list:
+- Bandra Bandstand
+- Kamala Mills Nightlife Strip
+- Dharavi Heritage Walk
+- Prithvi Theatre
+- Chhatrapati Shivaji Maharaj Terminus
+- Dadar Chowpatty
+- Inorbit Mall Malad
+- Korum Mall
+- Zaveri Bazaar
+- Sarafa Bazaar
+- Worli Promenade
+- Hard Rock Cafe Mumbai
+- Toit Mumbai
+- Kyani & Co.
+- Gloria Church
+- Regal Cinema
+- Trishna
+- Khyber
+- Heera Panna Market
+- Mahesh Lunch Home
+- Gajalee
+- Prithvi Cafe
+- Theobroma Bandra
+- Bastian Mumbai
+- Pali Bhavan
+- Elco Pani Puri Centre
+- Third Wave Coffee Bandra
+- Nara Thai Bandra
+- Goan Cart
+- Aaswad Upahar Griha
+- SIES College Area
+- Sion Fort
+- St. Andrew's Church
+- Lokhandwala Market
+- Oberoi Mall
+- BKC Food District
+- BKC Art District
+- antiSOCIAL Mumbai
+- PVR ICON Phoenix
+- PVR INOX Juhu
+- Shivaji Park Gymkhana
+- Dadar Market
+- Linking Road Market
+- The Good Wife
+- Matunga Market
+- Pali Hill
+- Bandra Lake
+- Pali Market
+- Cross Maidan
+
+Missing image entries:
+- Heera Panna Market
+- Mahesh Lunch Home
+- Blue Tokai Bandra
+- Ravindra Natya Mandir
+- Shivaji Park Gymkhana
+- Juhu Chowpatty
+
+Verified replacement overrides included in this patch:
+- Juhu Chowpatty
+- Prithvi Theatre
+- PVR INOX Juhu
+- Natural Ice Cream
+- Mahesh Lunch Home
+- Korum Mall
+- Bandra Bandstand
+- Chhatrapati Shivaji Maharaj Terminus
+- Dharavi Heritage Walk
+- Inorbit Mall Malad
+- Zaveri Bazaar
+- Hard Rock Cafe Mumbai
+- Gloria Church
+- Regal Cinema
+- Khyber
+- PVR ICON Phoenix
+- antiSOCIAL Mumbai
+- SIES College Area
+
+Important:
+- Existing dataset and image files are not deleted or replaced by this patch.
+- The override file is intended to be used by the TripSense app image loader.
+- Some flagged places still require a dedicated source lookup before replacing them; the patch deliberately does not guess those images.
