@@ -26,3 +26,21 @@ If a place has no sufficiently strong source match, it is listed in `data/image_
 
 
 Current-data note: Pali Village Cafe was replaced by Pali Bhavan because Pali Village Cafe is reported permanently closed in 2026; Pali Bhavan reopened at Churchgate.
+
+## ?? Application Screenshots
+
+### ?? Home Page
+![TripSense Home Page](docs/screenshots/homepage.png)
+
+### ??? Beach Recommendations
+![Beach Recommendations](docs/screenshots/beach-recommendations.png)
+
+### ??? Weather Warning
+![Weather Warning](docs/screenshots/weather-warning.png)
+
+### ??? Rainy Weather Alternatives
+![Rainy Weather Alternatives](docs/screenshots/rainy-weather-alternatives.png)
+
+### ?? Religious Recommendations
+![Religious Recommendations](docs/screenshots/religious-recommendations.png)
+
