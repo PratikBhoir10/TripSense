@@ -126,7 +126,7 @@ TripSense can be deployed using [Streamlit Community Cloud](https://share.stream
 
 Ensure that all required datasets, embedding files, and dependencies are included and accessible at the expected paths.
 
-**Live Demo:**(https://tripsense-mheekab95pdrrcqwqbtgfp.streamlit.app/)
+**Live Demo:** (https://tripsense-mheekab95pdrrcqwqbtgfp.streamlit.app/)
 
 ## Limitations and Future Scope
 
